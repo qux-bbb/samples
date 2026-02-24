@@ -1,6 +1,7 @@
 # samples
 
-Git Large File Storage 限制了总的文件体积，无法上传样本了，该仓库封存。
+Git Large File Storage 限制了总的文件体积，无法上传样本了，该仓库封存。  
+后续使用该仓库收集整理信息 https://github.com/qux-bbb/malware_analysis
 
 样本越来越难下载了，建一个仓库，放样本和相关描述。  
 
